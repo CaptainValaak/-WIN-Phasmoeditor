@@ -1,3 +1,5 @@
+Based on original project https://github.com/cnnrde/phasmoeditor/tree/main
+
 # phasmoeditor
 
 Welcome to the phasmoeditor (Phasmophobia Save Editor) web application! This tool allows you to easily edit the save files for the game Phasmophobia, giving you a way to tweak your game experience to your liking.
