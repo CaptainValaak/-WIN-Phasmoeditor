@@ -43,5 +43,4 @@ This tool is not officially affiliated with Phasmophobia or Kinetic Games. Pleas
 
 Enjoy editing your Phasmophobia save files responsibly!
 
-![](Screenshot_3.png)
-![](Screenshot_4.png)
+![](Screenshot_5.png)
